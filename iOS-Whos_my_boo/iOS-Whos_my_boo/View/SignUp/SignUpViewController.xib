@@ -94,6 +94,13 @@
                         <constraint firstItem="dpW-NN-U3r" firstAttribute="top" secondItem="Nvj-5L-oa6" secondAttribute="bottom" id="vV2-2S-5Gi"/>
                     </constraints>
                 </view>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gul-f4-xAB">
+                    <rect key="frame" x="154" y="319" width="67" height="31"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="Registrar">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                </button>
             </subviews>
             <color key="backgroundColor" red="0.9117426872253418" green="0.37009364366531372" blue="0.72594368457794189" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
             <constraints>
